@@ -1,4 +1,4 @@
-package com.plesgram.com.model;
+package com.plesgram.android.model;
 
 import android.app.Application;
 import android.os.Parcel;
@@ -7,7 +7,7 @@ import android.util.Log;
 
 import org.json.JSONObject;
 
-import com.plesgram.com.constants.Constants;
+import com.plesgram.android.constants.Constants;
 
 
 public class Gift extends Application implements Constants, Parcelable {
